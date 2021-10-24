@@ -1,0 +1,1 @@
+基于 Amd cauldron 框架而作的简单测试
